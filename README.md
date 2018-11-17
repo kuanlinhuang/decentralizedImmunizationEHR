@@ -6,7 +6,7 @@ Lets build a Decentralized Electronic Health Record for Immunization Records
 
 
 # Contributors
-Kuan Lin Huang 
+Kuan Lin Huang     
 Nathan Boone  
 Anthony Albertorio   
 Hong Wang   
