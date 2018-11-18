@@ -20,7 +20,7 @@ Our first iteration will be to create a Personal Health Record (PHR) mobile app 
 
 # Stack (pending)
 ## Front end
-ES6, React, React Native, Redux, Webpack, LinniaJS
+ES6, React, React Native, Redux, Webpack, Jest, LinniaJS
 
 ## Backend
 IPFS, Infura, FHIR standard, 
