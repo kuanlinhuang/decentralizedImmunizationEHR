@@ -1,0 +1,29 @@
+{
+  "name": "decentralizedimmunizationehr",
+  "version": "1.0.0",
+  "description": "a decentralized patient health record app build on React Native for immunization records",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuanlinhuang/decentralizedImmunizationEHR.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "medtech",
+    "patient",
+    "health-record",
+    "PHR",
+    "EHR",
+    "electronic-health-record"
+  ],
+  "author": "see README.md",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuanlinhuang/decentralizedImmunizationEHR/issues"
+  },
+  "homepage": "https://github.com/kuanlinhuang/decentralizedImmunizationEHR#readme"
+}
