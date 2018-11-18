@@ -1,8 +1,11 @@
 # Decentralized Immunization EHR
 
-Hackathon by New York Artificial Intelligence In Healthcare and NYC Blockchain Devs
-https://www.meetup.com/NYHAIS/
-https://www.meetup.com/nyc-blockchain-devs/
+Hackathon by New York Artificial Intelligence In Healthcare and NYC Blockchain Devs. 
+https://www.meetup.com/NYHAIS/. 
+https://www.meetup.com/nyc-blockchain-devs/  
+
+Join out slack group: https://linnia-protocol-devs.slack.com  
+and join #decentralized-ehr 
 
 Lets build a Decentralized Electronic Health Record for Immunization Records.
 
