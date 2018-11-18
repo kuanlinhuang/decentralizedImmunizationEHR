@@ -1,4 +1,4 @@
-# decentralizedImmunizationEHR
+# Decentralized Immunization EHR
 
 Hackathon by New York Artificial Intelligence In Healthcare and NYC Blockchain Devs
 https://www.meetup.com/NYHAIS/
