@@ -40,3 +40,5 @@ TBD
 - Idan Gutkind  
 - Doron Gutkind  
 - Vutsal Singhal
+- Juan Carlos Calderon
+- Charles Okochu
